@@ -199,7 +199,7 @@ const tmplHTML = `
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<style>
 			body {
-				background: black;
+				background: purple;
 				color: rgb(80, 80, 80);
 			}
 			body, pre, #legend span {
